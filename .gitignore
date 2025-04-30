@@ -1,0 +1,4 @@
+inputs/
+models/
+training/
+yolov8x.pt
